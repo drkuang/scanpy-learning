@@ -15,3 +15,7 @@ python:
     extra_requirements:
     - doc
     - leiden
+Optionally build your docs in additional formats such as PDF and ePub
+  formats:
+   - pdf
+   - epub
